@@ -1,0 +1,6 @@
+sudo apt install snort
+sudo apt install python3
+sudo apt install pip
+sudo aapt install python3-tk
+pip install tk
+sudo apt install python3-pil python3-pil.imagetk
